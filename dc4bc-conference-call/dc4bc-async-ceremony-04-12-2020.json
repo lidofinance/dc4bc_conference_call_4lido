@@ -15,6 +15,11 @@
       "Username": "chorusone",
       "PubKey": "qk+3x3gIJB0CYQ9gu7wwct+iiTPFl7s2svJ3M9znhTw=",
       "DkgPubKey": "mFOSdA0tF+l3UutiPvHMBY4sD+m5/9VWBArhbSoXHpo3zrF4Z1r0WcL8eus+Kf6K"
+    },
+    {
+       "Username": "stakingFacilities",
+       "PubKey": "cw9EwuxrWF1832IAGAGUszkBs58QOBKcnc5gaClYnaI=",
+       "DkgPubKey": "kvKkFGiGdrh741ywr5q1Ja8oFMTj9s7DYpoUYjyWvBxcHZlyR2Bp3ckRTvUhqw+J"
     }
   ]
 }

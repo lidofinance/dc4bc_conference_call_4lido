@@ -27,9 +27,14 @@
        "DkgPubKey": "kvKkFGiGdrh741ywr5q1Ja8oFMTj9s7DYpoUYjyWvBxcHZlyR2Bp3ckRTvUhqw+J"
     },
     {
-       "Username": "musalbas",
-       "PubKey": "WpwkOVKyMtTvdjtdgAzsdvNpjUjhGJRh/W/cEMCoj5c=",
-       "DkgPubKey": "qfdwpUusBLGuK/e3pYaSwsIr9DABu9N+clqMB32QbsOGda2fa9pJyL8XmSOVIdvU"
+       "Username": "billybigballs",
+       "PubKey": "wn3AoYLf/+TPPqD48BTtcQ5ObOSBy6aovR06lt+q6Po=",
+       "DkgPubKey": "twTsEvhuMAL9Rhi/qTGOIU8eLz2I/C9XUbDg/Av+X9264kROPfstppLV34M5Y6JS"
+    },
+    {
+      "Username": "musalbas",
+      "PubKey": "WpwkOVKyMtTvdjtdgAzsdvNpjUjhGJRh/W/cEMCoj5c=",
+      "DkgPubKey": "qfdwpUusBLGuK/e3pYaSwsIr9DABu9N+clqMB32QbsOGda2fa9pJyL8XmSOVIdvU"
     }
   ]
 }

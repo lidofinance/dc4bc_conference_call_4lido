@@ -25,6 +25,11 @@
        "Username": "stakingFacilities",
        "PubKey": "cw9EwuxrWF1832IAGAGUszkBs58QOBKcnc5gaClYnaI=",
        "DkgPubKey": "kvKkFGiGdrh741ywr5q1Ja8oFMTj9s7DYpoUYjyWvBxcHZlyR2Bp3ckRTvUhqw+J"
+    },
+    {
+       "Username": "billybigballs",
+       "PubKey": "wn3AoYLf/+TPPqD48BTtcQ5ObOSBy6aovR06lt+q6Po=",
+       "DkgPubKey": "twTsEvhuMAL9Rhi/qTGOIU8eLz2I/C9XUbDg/Av+X9264kROPfstppLV34M5Y6JS"
     }
   ]
 }

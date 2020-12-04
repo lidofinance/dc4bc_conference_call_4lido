@@ -10,6 +10,11 @@
       "Username": "certus_one",
       "PubKey": "H09Dz0GogYNL7BQcUP9lC/+FHBxY2MVrT0oLg85mnsk=",
       "DkgPubKey": "uUrtluBJ7ksydZKGXrIoZ+YkrB8j4i08VljvqD5eg8BVQDKHHYXpJ9eAd1h2YXg5"
+    },
+    {
+      "Username": "stakingFacilities",
+      "PubKey": "cw9EwuxrWF1832IAGAGUszkBs58QOBKcnc5gaClYnaI=",
+      "DkgPubKey": "kvKkFGiGdrh741ywr5q1Ja8oFMTj9s7DYpoUYjyWvBxcHZlyR2Bp3ckRTvUhqw+J"
     }
   ]
 }

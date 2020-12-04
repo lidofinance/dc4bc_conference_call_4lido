@@ -10,6 +10,11 @@
       "Username": "certus_one",
       "PubKey": "H09Dz0GogYNL7BQcUP9lC/+FHBxY2MVrT0oLg85mnsk=",
       "DkgPubKey": "uUrtluBJ7ksydZKGXrIoZ+YkrB8j4i08VljvqD5eg8BVQDKHHYXpJ9eAd1h2YXg5"
+    },
+    {
+      "Username": "chorusone",
+      "PubKey": "qk+3x3gIJB0CYQ9gu7wwct+iiTPFl7s2svJ3M9znhTw=",
+      "DkgPubKey": "mFOSdA0tF+l3UutiPvHMBY4sD+m5/9VWBArhbSoXHpo3zrF4Z1r0WcL8eus+Kf6K"
     }
   ]
 }

@@ -25,6 +25,11 @@
        "Username": "stakingFacilities",
        "PubKey": "cw9EwuxrWF1832IAGAGUszkBs58QOBKcnc5gaClYnaI=",
        "DkgPubKey": "kvKkFGiGdrh741ywr5q1Ja8oFMTj9s7DYpoUYjyWvBxcHZlyR2Bp3ckRTvUhqw+J"
+    },
+    {
+       "Username": "musalbas",
+       "PubKey": "WpwkOVKyMtTvdjtdgAzsdvNpjUjhGJRh/W/cEMCoj5c=",
+       "DkgPubKey": "qfdwpUusBLGuK/e3pYaSwsIr9DABu9N+clqMB32QbsOGda2fa9pJyL8XmSOVIdvU"
     }
   ]
 }

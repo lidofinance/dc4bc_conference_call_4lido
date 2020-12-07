@@ -15,6 +15,11 @@
       "Username": "banteg",
       "PubKey": "nX0Sg6qDia1/+vELuiWwS89udHO9ilYaSZI1rKrGywc=",
       "DkgPubKey": "pF2GZngUsT6F+XEnpBCV9R4lmV2A5Nk0cnAsHFuNsQ4SoLNaMKNTmxrVagHDlnDy"
+    },
+    {
+      "Username": "svanevik",
+      "PubKey": "95s3rWYTan0vNJxmgPDUTwheW2qBLZk+zBSVjNiTWqA=",
+      "DkgPubKey": "tFKOeXJVK9EudefrEMvoDejlNRbDr09NZh+ZiwFxh2I8d2NKHLXGEHgbUgtDY69O"
     }
   ]
 }

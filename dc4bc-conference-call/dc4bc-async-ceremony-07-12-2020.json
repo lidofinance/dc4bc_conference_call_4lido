@@ -1,0 +1,10 @@
+{
+  "SigningThreshold": 2,
+  "Participants": [
+    {
+      "Username": "vsh",
+      "PubKey": "qM2ku9UPDibXROdqXQSZWgnsNGKIwf/pn2A7WqRVr2w=",
+      "DkgPubKey": "ixkW6kiY5ifLkRm/Z/7xSnCHTgzzoRh/8GYqslrJEm+V762KA9+x1IS7R9MYLPEg"
+    },
+  ]
+}

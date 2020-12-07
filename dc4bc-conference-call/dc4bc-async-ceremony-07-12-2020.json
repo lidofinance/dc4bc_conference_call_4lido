@@ -11,6 +11,10 @@
       "PubKey": "dDM3LjoUxjiJZhGPCg/ofmiQ2iL5xha3xQIPx/gfJdA=",
       "DkgPubKey": "mFOSdA0tF+l3UutiPvHMBY4sD+m5/9VWBArhbSoXHpo3zrF4Z1r0WcL8eus+Kf6K"
     },
-
+    {
+      "Username": "banteg",
+      "PubKey": "nX0Sg6qDia1/+vELuiWwS89udHO9ilYaSZI1rKrGywc=",
+      "DkgPubKey": "pF2GZngUsT6F+XEnpBCV9R4lmV2A5Nk0cnAsHFuNsQ4SoLNaMKNTmxrVagHDlnDy"
+    }
   ]
 }

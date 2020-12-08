@@ -5,6 +5,11 @@
       "Username": "azav",
       "PubKey": "kN6UWr7IF7cs1fzELduPOt/7OqZBNvH9IF/rZ8AbbGA=",
       "DkgPubKey": "tgUixG4YaArFCQITZagC79LapXqAVUNuaZ9x8gcTb5OtZptKGfV2Yy3FUpyKiYEH"
+    },
+    {
+      "Username": "gergold",
+      "PubKey": "tBzlH8lUH/IPUzik+g03w591aKVLor70FlKseCLZBus=",
+      "DkgPubKey": "gLoycwyg12Opki2/ejL6NoL0fC/WL4l6PvYTbvub0nZs8HI3G0MssFEbrAtBhg6R"
     }
   ]
 }

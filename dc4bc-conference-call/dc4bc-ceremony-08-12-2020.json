@@ -10,6 +10,11 @@
       "Username": "gergold",
       "PubKey": "tBzlH8lUH/IPUzik+g03w591aKVLor70FlKseCLZBus=",
       "DkgPubKey": "gLoycwyg12Opki2/ejL6NoL0fC/WL4l6PvYTbvub0nZs8HI3G0MssFEbrAtBhg6R"
+    },
+    {
+      "Username": "michwill",
+      "PubKey": "BoCsQihIoFF3I6KC76+jb78XlHQRIItdRMfCUH3MPXQ=",
+      "DkgPubKey": "p9BBAU6u0HN7/a18ZyANepPEgFu1XXpXZyhAiSGGV7E8WT2OM9oxNuqPgrzvYuTx"
     }
   ]
 }

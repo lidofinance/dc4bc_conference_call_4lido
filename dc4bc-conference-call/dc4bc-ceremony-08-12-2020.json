@@ -1,0 +1,10 @@
+{
+  "SigningThreshold": 4,
+  "Participants": [
+    {
+      "Username": "azav",
+      "PubKey": "kN6UWr7IF7cs1fzELduPOt/7OqZBNvH9IF/rZ8AbbGA=",
+      "DkgPubKey": "tgUixG4YaArFCQITZagC79LapXqAVUNuaZ9x8gcTb5OtZptKGfV2Yy3FUpyKiYEH"
+    }
+  ]
+}

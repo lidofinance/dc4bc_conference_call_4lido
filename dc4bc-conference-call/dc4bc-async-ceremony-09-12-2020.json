@@ -40,6 +40,11 @@
       "Username": "banteg",
       "PubKey": "hE8PBT70LvNHpGGgMsq2bSs1yzbAft/LPppmTWfDoqc=",
       "DkgPubKey": "gNH1TU7T96O5onTpc4symc8uOb64Yj36tdwq9pudAs14iKdOBFWwbkGQNsqyG0sO"
+    },
+    {
+      "Username": "k06a",
+      "PubKey": "/rSls3Og5nAUW3lmCrS5Zkw2MUDwcQ/6cf9MMJx85Sk=",
+      "DkgPubKey": "mcJ2fD/qPvFo/4vfvQLoAxfTkpKLESmgwP5nWz+4HswtzuY6GeLmbgWZpLpU6fRB"
     }
   ]
 }

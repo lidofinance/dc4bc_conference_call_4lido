@@ -30,6 +30,11 @@
       "Username": "musalbas",
       "PubKey": "d5CJLi3Ut5l+dCAFEf13qn+UZ3FiCOT+rlB/z0ACphI=",
       "DkgPubKey": "q0ot2nbqwy25xmXnV1ZnmgknPpRj6/3P5SZR53Pk+MqaAwtpBjO1MRgK2+borT2h"
+    },
+    {
+      "Username": "certus_one",
+      "PubKey": "2OafXXDXZOwy69cOH+BJqsBzFm9e0Tefu9vBXT9STA4=",
+      "DkgPubKey": "peyLjHzDXE21rMemvDjcfk1XvfhE0qQs5NhcCmNwsAiyrg1SSpDpusDKIWyid25q"
     }
   ]
 }

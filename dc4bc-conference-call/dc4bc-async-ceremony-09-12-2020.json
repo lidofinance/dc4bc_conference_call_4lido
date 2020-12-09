@@ -10,6 +10,11 @@
       "Username": "svanevik",
       "PubKey": "rjf133mDxZuRHtL99pI5mzo7NXla9diavQYImKdzxxg=",
       "DkgPubKey": "kvaRd6ggE2vVOPWX5BZOMzHx2d/uIC/Ur3gDQev608NluDf0T056o0zphCLN/SvV"
+    },
+    {
+      "Username": "chorusone",
+      "PubKey": "8U9NawSyt7owF4JDObgccEKb5du8vf5cDQZ+u9kbd1g=",
+      "DkgPubKey": "mct55eYcBANfAyK/W97Vt09UjFtbbiBeK4TwaUFrQtrtop2W9abEtzPv+s7YySPY"
     }
   ]
 }

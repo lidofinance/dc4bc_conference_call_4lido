@@ -35,6 +35,11 @@
       "Username": "certus_one",
       "PubKey": "2OafXXDXZOwy69cOH+BJqsBzFm9e0Tefu9vBXT9STA4=",
       "DkgPubKey": "peyLjHzDXE21rMemvDjcfk1XvfhE0qQs5NhcCmNwsAiyrg1SSpDpusDKIWyid25q"
+    },
+    {
+      "Username": "banteg",
+      "PubKey": "hE8PBT70LvNHpGGgMsq2bSs1yzbAft/LPppmTWfDoqc=",
+      "DkgPubKey": "gNH1TU7T96O5onTpc4symc8uOb64Yj36tdwq9pudAs14iKdOBFWwbkGQNsqyG0sO"
     }
   ]
 }

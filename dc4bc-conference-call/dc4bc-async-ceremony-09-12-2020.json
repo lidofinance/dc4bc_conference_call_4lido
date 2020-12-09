@@ -12,19 +12,9 @@
       "DkgPubKey": "kvaRd6ggE2vVOPWX5BZOMzHx2d/uIC/Ur3gDQev608NluDf0T056o0zphCLN/SvV"
     },
     {
-      "Username": "stakingFacilities",
-      "PubKey": "D2zck4Kr9d3UHcN5qnysbQSi6MAqXrGvw9tGi+ZckP0=",
-      "DkgPubKey": "knqb6GstjD6snEozZmC/CgAaNV4nSgNCpLqz3irwd+GpVoa12iWxnWYI/WDOXRct"
-    },
-    {
-      "Username": "chorusone",
-      "PubKey": "8U9NawSyt7owF4JDObgccEKb5du8vf5cDQZ+u9kbd1g=",
-      "DkgPubKey": "mct55eYcBANfAyK/W97Vt09UjFtbbiBeK4TwaUFrQtrtop2W9abEtzPv+s7YySPY"
-    },
-    {
-      "Username": "musalbas",
-      "PubKey": "d5CJLi3Ut5l+dCAFEf13qn+UZ3FiCOT+rlB/z0ACphI=",
-      "DkgPubKey": "q0ot2nbqwy25xmXnV1ZnmgknPpRj6/3P5SZR53Pk+MqaAwtpBjO1MRgK2+borT2h"
+      "Username": "certus_one",
+      "PubKey": "2OafXXDXZOwy69cOH+BJqsBzFm9e0Tefu9vBXT9STA4=",
+      "DkgPubKey": "peyLjHzDXE21rMemvDjcfk1XvfhE0qQs5NhcCmNwsAiyrg1SSpDpusDKIWyid25q"
     }
   ]
 }

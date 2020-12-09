@@ -2,9 +2,9 @@
   "SigningThreshold": 4,
   "Participants": [
     {
-      "Username": <USERNAME>,
-      "PubKey": <PUBKEY>,
-      "DkgPubKey": <DKGPUBKEY>
+      "Username": "gergold",
+      "PubKey": "wbbQZQZrPQty0zTjk4nE5tty+s4cjvuWgGUEishgkqA=",
+      "DkgPubKey": "iVSsqA/QNkwSQ0A3Y2sF1vG3bS2RhWO6/oHHBo3EQkr3vbXit5ythAn8GE/G+OUu"
     }
   ]
 }

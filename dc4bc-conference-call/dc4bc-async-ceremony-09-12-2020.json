@@ -25,6 +25,11 @@
       "Username": "will",
       "PubKey": "IvXMW296nByLs8UDwiLvjMXpErPS/AmE80ElGhIwInM=",
       "DkgPubKey": "jS8QfSBYddahzyvqTDHycv5MVzicsO5hbMRFFOx6zkQpIu3FAq0wEawzyZe"
+    },
+    {
+      "Username": "musalbas",
+      "PubKey": "d5CJLi3Ut5l+dCAFEf13qn+UZ3FiCOT+rlB/z0ACphI=",
+      "DkgPubKey": "q0ot2nbqwy25xmXnV1ZnmgknPpRj6/3P5SZR53Pk+MqaAwtpBjO1MRgK2+borT2h"
     }
   ]
 }

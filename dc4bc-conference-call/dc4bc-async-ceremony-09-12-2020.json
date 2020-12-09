@@ -1,10 +1,15 @@
 {
-  "SigningThreshold": 4,
+  "SigningThreshold": 6,
   "Participants": [
     {
       "Username": "gergold",
       "PubKey": "wbbQZQZrPQty0zTjk4nE5tty+s4cjvuWgGUEishgkqA=",
       "DkgPubKey": "iVSsqA/QNkwSQ0A3Y2sF1vG3bS2RhWO6/oHHBo3EQkr3vbXit5ythAn8GE/G+OUu"
+    },
+    {
+      "Username": "svanevik",
+      "PubKey": "rjf133mDxZuRHtL99pI5mzo7NXla9diavQYImKdzxxg=",
+      "DkgPubKey": "kvaRd6ggE2vVOPWX5BZOMzHx2d/uIC/Ur3gDQev608NluDf0T056o0zphCLN/SvV"
     }
   ]
 }

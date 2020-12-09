@@ -45,6 +45,11 @@
       "Username": "k06a",
       "PubKey": "/rSls3Og5nAUW3lmCrS5Zkw2MUDwcQ/6cf9MMJx85Sk=",
       "DkgPubKey": "mcJ2fD/qPvFo/4vfvQLoAxfTkpKLESmgwP5nWz+4HswtzuY6GeLmbgWZpLpU6fRB"
+    },
+    {
+      "Username": "blockscape",
+      "PubKey": "jfUSxFx7vhrnSqsdyN7jLzD+vneYQmCwFSf3/MK7/XI=",
+      "DkgPubKey": "iwPpBMog0vMtgyhUypWrRSsvFlf1dyl0LE0yo0Nm0Ii1IlyHZAD7iUM9pL+cbQhk"
     }
   ]
 }

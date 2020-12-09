@@ -12,9 +12,14 @@
       "DkgPubKey": "kvaRd6ggE2vVOPWX5BZOMzHx2d/uIC/Ur3gDQev608NluDf0T056o0zphCLN/SvV"
     },
     {
-    "Username": "stakingFacilities",
-    "PubKey": "D2zck4Kr9d3UHcN5qnysbQSi6MAqXrGvw9tGi+ZckP0=",
-    "DkgPubKey": "knqb6GstjD6snEozZmC/CgAaNV4nSgNCpLqz3irwd+GpVoa12iWxnWYI/WDOXRct"
+      "Username": "stakingFacilities",
+      "PubKey": "D2zck4Kr9d3UHcN5qnysbQSi6MAqXrGvw9tGi+ZckP0=",
+      "DkgPubKey": "knqb6GstjD6snEozZmC/CgAaNV4nSgNCpLqz3irwd+GpVoa12iWxnWYI/WDOXRct"
+    },
+    {
+      "Username": "chorusone",
+      "PubKey": "8U9NawSyt7owF4JDObgccEKb5du8vf5cDQZ+u9kbd1g=",
+      "DkgPubKey": "mct55eYcBANfAyK/W97Vt09UjFtbbiBeK4TwaUFrQtrtop2W9abEtzPv+s7YySPY"
     }
   ]
 }

@@ -20,6 +20,11 @@
       "Username": "chorusone",
       "PubKey": "8U9NawSyt7owF4JDObgccEKb5du8vf5cDQZ+u9kbd1g=",
       "DkgPubKey": "mct55eYcBANfAyK/W97Vt09UjFtbbiBeK4TwaUFrQtrtop2W9abEtzPv+s7YySPY"
+    },
+    {
+      "Username": "will",
+      "PubKey": "IvXMW296nByLs8UDwiLvjMXpErPS/AmE80ElGhIwInM=",
+      "DkgPubKey": "jS8QfSBYddahzyvqTDHycv5MVzicsO5hbMRFFOx6zkQpIu3FAq0wEawzyZe"
     }
   ]
 }

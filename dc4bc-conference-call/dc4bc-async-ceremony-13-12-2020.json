@@ -12,9 +12,9 @@
       "DkgPubKey": ""
     },
     {
-      "Username": "stakingFacilities",
-      "PubKey": "",
-      "DkgPubKey": ""
+      "Username": "staking_facilities",
+      "PubKey": "EYdeAeCJLNUXufn6SOFbdr0HWp3f0YwurHcVE2yGLvY=",
+      "DkgPubKey": "s9NIJZ+Xeyg0alGlOOZYtdnAqj3WdkDIU3i3biQ3nBQ9OLWJz0EjX3AC0Pfokjyq"
     },
     {
       "Username": "chorusone",

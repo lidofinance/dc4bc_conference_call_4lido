@@ -1,0 +1,60 @@
+{
+  "SigningThreshold": 6,
+  "Participants": [
+    {
+      "Username": "gergold",
+      "PubKey": "",
+      "DkgPubKey": ""
+    },
+    {
+      "Username": "svanevik",
+      "PubKey": "",
+      "DkgPubKey": ""
+    },
+    {
+      "Username": "stakingFacilities",
+      "PubKey": "",
+      "DkgPubKey": ""
+    },
+    {
+      "Username": "chorusone",
+      "PubKey": "",
+      "DkgPubKey": ""
+    },
+    {
+      "Username": "will",
+      "PubKey": "",
+      "DkgPubKey": ""
+    },
+    {
+      "Username": "musalbas",
+      "PubKey": "",
+      "DkgPubKey": ""
+    },
+    {
+      "Username": "certus_one",
+      "PubKey": "",
+      "DkgPubKey": ""
+    },
+    {
+      "Username": "banteg",
+      "PubKey": "",
+      "DkgPubKey": ""
+    },
+    {
+      "Username": "k06a",
+      "PubKey": "",
+      "DkgPubKey": ""
+    },
+    {
+      "Username": "rune",
+      "PubKey": "",
+      "DkgPubKey": ""
+    },
+    {
+      "Username": "michwill",
+      "PubKey": "",
+      "DkgPubKey": ""
+    }
+  ]
+}
